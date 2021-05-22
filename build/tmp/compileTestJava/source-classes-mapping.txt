@@ -1,0 +1,12 @@
+com/transportcompany/EmployeeTest.java
+ com.transportcompany.EmployeeTest
+com/transportcompany/ClientTest.java
+ com.transportcompany.ClientTest
+com/transportcompany/VehicleTest.java
+ com.transportcompany.VehicleTest
+com/transportcompany/TransportCompanyTest.java
+ com.transportcompany.TransportCompanyTest
+com/transportcompany/FareTest.java
+ com.transportcompany.FareTest
+com/transportcompany/CompaniesManagerTest.java
+ com.transportcompany.CompaniesManagerTest
